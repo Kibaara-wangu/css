@@ -1,0 +1,28 @@
+#container{
+    border:solid 2px;
+    border-color: beige;
+    padding: 24px;
+    width: 50%;
+    margin: 0 auto;
+}
+.input{
+    border: 3px;
+    height: 16px;
+    margin-left: 20px;
+    height: 16px;
+    width: 78%;
+}
+button{
+    background-color: blue;
+    padding: 7px 12px;
+    color: antiquewhite;
+    border-radius: 2px;
+    width: 85%;
+}
+table,th,td{
+    border: solid 1px;
+    padding: 20px;
+    width: 50%;
+    height: 35px;
+    
+}
